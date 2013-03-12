@@ -1,4 +1,4 @@
 grmEstimatorToolbox
 ===================
 
-Toolbox for the estimation of the Generalized Roy Model.
+I have a better readme file. Toolbox for the estimation of the Generalized Roy Model.
